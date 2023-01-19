@@ -1,0 +1,44 @@
+# Source data
+*.txt
+*.tsv
+*.RData
+*.Rhistory
+*.pdf
+data
+#Source data
+*.csv
+*.pptx
+#*.png
+*.docx
+
+*.xls*
+*.RD*
+*.Rh*
+*.sav
+
+# Report
+*.html
+
+# Notebooks checkpoints
+.ipynb_checkpoints
+__pycache__
+
+# Report
+*.html
+/notebooks/Report_files
+/notebooks/DataExploration_files
+
+# folder 
+/data
+.vscode
+/env_
+
+
+#Dossier
+/Data
+/DATA
+/Results
+/Articles
+/images
+/.idea
+/*.idea

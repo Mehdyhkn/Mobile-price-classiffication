@@ -1,0 +1,10 @@
+
+
+
+
+
+
+
+
+# class that onehotencoding + standardization 
+
